@@ -19,6 +19,8 @@
 /storage/*.key
 /storage/pail
 /vendor
+/ml-service/.venv/
+/ml-service/__pycache__/
 Homestead.json
 Homestead.yaml
 Thumbs.db
